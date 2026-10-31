@@ -63,7 +63,8 @@ Questo sito web utilizza i cookie per garantire la sua funzionalità.
 </div>
 <div class="bg-wrap">
 <div class="bg-mask"></div>
-<img src="https://cdn-dimi.akamaized.net/landings/286701/1707471632/images/3.mp4" alt="media" id="VideoBg">
+<video autoplay="" muted="" loop="" id="VideoBg">
+<source src="https://cdn-dimi.akamaized.net/landings/286701/1707471632/images/3.mp4" type="video/mp4">
 </div>
 <script type="text/javascript">
 const texts = {
